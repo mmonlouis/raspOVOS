@@ -23,7 +23,7 @@ Find the latest images on the [Releases](https://github.com/OpenVoiceOS/raspOVOS
 
 ### 🛠️ Getting Started:
 
-Check out the [Getting Started Guide](https://github.com/OpenVoiceOS/raspOVOS/blob/master/tutorial.md) for instructions.
+Check out the [Getting Started Guide](https://github.com/OpenVoiceOS/raspOVOS/blob/master/docs/tutorial.md) for instructions.
 
 
 ---
